@@ -236,3 +236,23 @@ footer {
     width: 100%;
     background-color: #777;
 }
+
+
+/* ----------------------------------------------------------------------- */
+
+/* Página Masculino */
+/* .grid{
+    background-color: blue;
+} */
+.menu-lateral{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    /* background-color: red; */
+}
+
+.menu-lateral ul li{
+    color: white;
+}
