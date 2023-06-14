@@ -1,7 +1,6 @@
 // FUNÇÃO PARA O SLIDER FICAR PASSANDO SOZINHO
 
 let timeSlide = 1;
-let timeSlidePause = 1;
 
 document.getElementById("radio1").checked = true;
 
